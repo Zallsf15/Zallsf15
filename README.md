@@ -5,6 +5,6 @@
 - 📫 How to reach me ...
 
 <!---
-Zallsf15/Zallsf15 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Zallsf15/sukasuka is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
